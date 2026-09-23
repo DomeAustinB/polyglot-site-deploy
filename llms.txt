@@ -1,23 +1,13 @@
 # Polyglot Music
 
-> Polyglot Music dubs songs into new languages in the original artist's own voice, in sync with the original recording. One song becomes releases in 20+ languages for artists, record labels and music publishers, and every version is approved by the artist and rights holders before it is released. Every voice. Every language. Perfectly in sync.
+> Polyglot Music is the global standard for making music borderless and accessible to all. It releases songs in 20+ languages in the original artist's own voice, for artists, record labels and music publishers. Every voice. Every language. Perfectly in sync.
 
 ## What Polyglot Music does
 
-Polyglot Music is a music technology company working in cross-lingual music: AI vocal generation and cross-lingual singing voice synthesis applied to real, released songs. Where film has dubbing, music has mostly had covers and translations sung by someone else. Polyglot Music makes a dubbed version of the song itself: the artist's voice, tone, phrasing and feeling carried into a language the song was never written in.
+Polyglot Music makes new-language versions of existing songs, sung in the original artist's own voice and in sync with the original. It is not a cover and not a stand-in singer: it is the artist, in a language the song was never written in.
 
-- It is not a cover, a stand-in singer or a word-for-word translation.
-- Lyrics are rewritten to be sung: matched to the melody, rhythm and meaning, the way a native songwriter would write them.
-- The new vocal is performed in the original artist's voice and timed to the original recording, so it sits on the same instrumental.
 - Each language version is a new master recording, released alongside the original. The original is never changed.
-- Nothing is released without the approval of the artist and the rights holders.
-
-## How it works
-
-1. You send the song. The original recording is the starting point.
-2. The lyrics are rewritten to be sung in the new language.
-3. It is sung in the original voice, in sync with the original performance.
-4. Nothing ships until you approve it.
+- Artists and rights holders choose the languages and approve every version before it is released.
 
 ## Languages
 
@@ -25,30 +15,26 @@ Polyglot Music is a music technology company working in cross-lingual music: AI 
 
 ## Who it is for
 
-- Recording artists and songwriters who want to reach listeners in languages they never recorded in, in their own voice.
-- Record labels and music publishers who want to grow the catalog they already own: every language version is a new master, so a 1,000-song catalog released in 23 languages becomes 23,000 recordings.
-- Artist managers planning international releases and tours.
-
-## Why it matters
-
-Recorded music is growing fastest outside the English-speaking world, in markets such as Latin America and Asia. Most catalogs reach those listeners only in their original language. Polyglot Music lets existing songs meet those audiences in their own language, without re-recording and without losing the artist's voice.
+- Recording artists and songwriters who want to reach listeners in languages they never recorded in.
+- Record labels and music publishers who want to grow the catalog they already own with new-language masters.
+- Artist managers planning international releases.
 
 ## Team
 
-- Joel Klaiman, co-founder (Music): former EVP/GM of Columbia Records and President of Hitco, with senior roles at Epic and Republic. Billboard Power 100.
-- David Saint Fleur, co-founder (A&R and production): songwriter and record producer, fifteen years at Warner Music Group, formerly Global A&R at Atlantic Records.
-- Austin Dome, co-founder and CEO (Technology): serial founder and AI/ML engineer working on neural audio synthesis, voice modeling and cross-lingual generation.
+- Joel Klaiman, co-founder (Music): former EVP/GM of Columbia Records and President of Hitco. Billboard Power 100.
+- David Saint Fleur, co-founder (A&R and production): songwriter and record producer, formerly Global A&R at Atlantic Records.
+- Austin Dome, co-founder and CEO (Technology): serial founder and AI/ML engineer.
 
 ## Related topics
 
-Music dubbing, song dubbing, cross-lingual music, multilingual music, AI music, AI vocal generation, singing voice synthesis, voice preservation, music localization, lyric adaptation, song translation, music catalog growth, catalog monetization, international music releases.
+Music dubbing, song dubbing, cross-lingual music, multilingual music, AI music, AI vocal generation, music localization, international music releases, music catalog growth.
 
 ## Pages
 
 - [Home](https://www.polyglotmusic.co/): Every voice. Every language. Perfectly in sync.
-- [Product](https://www.polyglotmusic.co/product): How a song becomes a new-language version, in four steps.
-- [For artists](https://www.polyglotmusic.co/for-artists): Your voice in 20+ languages. You choose the languages and approve every release.
-- [For labels & publishers](https://www.polyglotmusic.co/for-labels): Grow the catalog you own with new-language masters.
+- [Product](https://www.polyglotmusic.co/product): One song, every language, in the original voice.
+- [For artists](https://www.polyglotmusic.co/for-artists): Your voice in 20+ languages.
+- [For labels & publishers](https://www.polyglotmusic.co/for-labels): Grow the catalog you own.
 - [Our team](https://www.polyglotmusic.co/team): The founders behind Polyglot Music.
 - [Schedule a demo](https://www.polyglotmusic.co/demo): Thirty minutes with the founders, one real track.
 - [Join the waitlist](https://www.polyglotmusic.co/waitlist): Early access, opening in small groups.
@@ -57,4 +43,3 @@ Music dubbing, song dubbing, cross-lingual music, multilingual music, AI music, 
 
 - Website: https://www.polyglotmusic.co
 - Email: info@polyglotmusic.co
-- Company: Polyglot Music, LLC
